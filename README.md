@@ -4,4 +4,4 @@ Added the functionality of Login, SignUp, Change Pin, Deposit, Withdraw, Fast Ca
 The functionality of Mini Statement will be added soon.
 All the data of login and account details are stored in MySQL Workbench 8.0 CE.
 Connection to Database done using JDBC.
-Screenshots of each page have also been attached in the Screenshots folderfor reference.
+Screenshots of each page have also been attached in the Screenshots folder for reference.
